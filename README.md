@@ -1,3 +1,16 @@
+<h1 align="center">🧊 KoolStats</h1>
+<p align="center">
+  Minimal FPS + Ping counter for potato PCs 🥔<br>
+  No graphs. No lag. No RAM abuse. Just stats.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FPS✅-Works%20Everywhere-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ping✅-Google%20based-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAM%20Usage-Tiny-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/No%20Install-Needed-yellow?style=flat-square" />
+</p>
+ 
 # 🧊 KoolStats
 
 Minimal FPS and Ping counter for every game.  
