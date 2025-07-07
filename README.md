@@ -92,7 +92,7 @@ It’s just text. It floats. It updates. That's it.
 
 ## 🧃 Who Made This?
 
-**Koolli**, 12 y/o dev with too much time on weekends 💅  
+**Koolli**, 14 y/o mini-dev with too much time on weekends 💅  
 📷 [Instagram: @koollify](https://instagram.com/koollify)  
 🎵 [TikTok: @koolli](https://tiktok.com/@koolli)  
 📺 [YouTube: @koolli](https://youtube.com/@koolli)
