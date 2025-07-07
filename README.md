@@ -1,100 +1,84 @@
+<h1 align="center">🧊 KoolStats</h1>
 
+<p align="center">
+  🎮 The cleanest FPS + Ping counter you didn’t know you needed.<br>
+  No graphs. No lag. No RAM abuse. Just ✨ vibes ✨
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FPS-Works%20Everywhere-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ping-Google%20Based-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAM-Tiny%20AF-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Install-Not%20Even%20Needed-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vibes-🎀%20Certified-pink?style=flat-square" />
+</p>
+
+<p align="center"><em>Built for everyone. Runs on anything. Coded with ✨ and 🥔.</em></p>
+
+---
+
+## ⚙️ What is KoolStats?
+
+KoolStats is a no-nonsense HUD that shows your:
+- ✅ FPS  
+- ✅ Ping  
+- ✅ *(Optional)* 1% Low FPS  
+
+with **no graphs, no lag, no RAM drain**. Just stats.  
+Lightweight, draggable, resizable, and cute.  
+No tray icon. No background process (unless needed).  
+No bloat.
 
 ---
 
 ## 📦 Versions
 
-| Version     | FPS | Ping | 1% Low | Color Alerts              | Menu           |
-|-------------|-----|------|--------|----------------------------|----------------|
-| **Zero**    | ✅  | ✅   | ❌     | ❌                         | ❌             |
-| **Lite**    | ✅  | ✅   | ❌     | 🔴 (only if FPS ≤ 10)      | 🔒 Lock only   |
-| **Normal**  | ✅  | ✅   | ❌     | ✅                         | ✅             |
-| **Pro**     | ✅  | ✅   | ✅     | ✅                         | ✅             |
-
-> 🔒 = Locks HUD (no dragging / click-thru mode)  
-> 1% Low updates every 5 sec in Pro
+| Version | FPS | Ping | 1% Low | Color Alerts             | Menu         |
+|---------|-----|------|--------|---------------------------|--------------|
+| **Zero**   | ✅   | ✅    | ❌      | ❌                       | ❌            |
+| **Lite**   | ✅   | ✅    | ❌      | 🔴 (only if FPS ≤ 10)     | 🔒 only       |
+| **Normal** | ✅   | ✅    | ❌      | ✅                        | ✅            |
+| **Pro**    | ✅   | ✅    | ✅      | ✅                        | ✅            |
 
 ---
 
-## 🖥 Works With:
-- Roblox ✅
-- Valorant ✅
-- Minecraft ✅
-- Even your aunt’s 2012 netbook ✅  
-> If it opens a game, KoolStats probably works on it.
+## 🎮 Works with:
+- Roblox
+- Valorant
+- Minecraft
+- Literally any game that doesn’t fight overlays
 
 ---
 
-## 🧼 Is It Safe?
+## 🔐 Is It Safe?
 
-Yes bruh.  
-No virus. No crypto miner. No weird stuff watching you type.
+Yes. KoolStats is 100% safe.  
+No viruses. No weird auto-start stuff.  
+No mining crypto in your basement 😭
 
-I don’t make money off this.  
-There’s no ads. No paywall. No “premium tier.”  
-I’m 12, not a Silicon Valley CEO 😭
+This is a **fun side project**.  
+- ❌ No monetization  
+- ❌ No ads  
+- ❌ No premium tier  
+- ✅ Just code and care
 
-> KoolStats ain’t an exploit, cheat, or magic booster.  
-> It’s not like Bloxstrap (safe launcher) or Evon (💀).  
-> It’s just a tiny stats thing so you don’t suffer in silence.
-
----
-
-## 🔒 Wanna double check?
-
-- ✅ Code is public on GitHub  
-- ✅ You can build it yourself  
-- ✅ KoolStats only shows FPS + Ping — that’s it
-
-Check the code. It’s literally all right there.  
-If it was sketchy, I’d be banned already 💀
+Source code is **fully open**. You can build it, tweak it, or read every line.
 
 ---
 
-## 📁 How to Use
+## 🛠️ How It Works
 
-1. Download from [Releases](#) (when I upload it... chill)
-2. Run `.exe`
-3. Boom. Stats show. Right-click for settings (if you're fancy)
+- FPS is measured using update intervals — close enough for human eyes  
+- Ping is estimated using Google (⚠️ not super accurate but does the job)  
+- 1% Low is updated every 5s (in Pro only)  
 
-> ⚠️ No tray icons  
-> ⚠️ No background processes  
-> ✅ Just vibes
-
----
-
-## 🤔 Accuracy?
-
-Not perfect. But good enough.
-
-- FPS = measured by a humble clock  
-- Ping = we ask Google like "yo how fast am I?"  
-- 1% Low = guesswork but not totally useless  
-
-> Wanna be NASA? Go get MSI Afterburner.  
-> Wanna know if your PC just died? KoolStats got u.
+It's meant to be light, not NASA-tier accurate.  
+You want frame-perfect telemetry? Go download Afterburner.  
+You want a quick “am I lagging?” — KoolStats gotchu 💅
 
 ---
 
-## 💡 Why KoolStats?
+## 🧼 How to Use
 
-- Because Shift+F5 on Roblox be looking like a whole PowerPoint
-- Because Valorant hides your suffering
-- Because most overlays drop FPS while showing FPS
-- Because I wanted something small that just works.
-
----
-
-## 🧠 Built by:
-
-**Koolli** – professional lag survivor, amateur FPS specialist  
-📷 IG: [@koollify](https://instagram.com/koollify)  
-🎵 TikTok: [@koolli](https://tiktok.com/@koolli)  
-📺 YouTube: [@koolli](https://youtube.com/@koolli)
-
----
-
-> this project may not be “important”  
-> but it’s something I wanted to make  
-> and maybe it helps 1 person  
-> then it’s already a W 💯
+1. Download from [Releases](#).
+2. Run the `.exe`
