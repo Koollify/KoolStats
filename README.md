@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/Gemini_Generated_Image_x1tfjqx1tfjqx1tf-removebg-preview.png" width="128" alt="KoolStats Logo"/>
+  <img src=".github/assets/Gemini_Generated_Image_x1tfjqx1tfjqx1tf-removebg-preview.png" width="256" alt="KoolStats Logo"/>
 </p>
 
 <h1 align="center">KoolStats</h1>
