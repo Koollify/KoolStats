@@ -1,19 +1,20 @@
-<h1 align="center">⚡ KoolStats</h1>
+<h1 align="center">🧊 KoolStats</h1>
 
 <p align="center">
-  When you want FPS + Ping but don’t want your PC to explode 🔥<br>
-  This ain’t MSI Afterburner. This is ✨ energy-efficient slayware ✨
+  🎮 Minimal HUD for your inner sweat<br>
+  ✨ Built for potatoes, loved by everyone. Even your FPS. 🙃
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FPS-Done-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ping-Yep-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/1%25%20Low-Optional-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAM%20Usage-Criminally%20Low-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vibes-Insanely%20High-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/FPS-📈%20Real%20Time-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ping-🌐%20Google%20Based-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAM-🥔%20Ultra%20Lite-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Overlay-✨%20No%20Bloat-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vibes-🎀%20Certified-pink?style=flat-square" />
 </p>
 
-<p align="center"><em>Built by one bored dev. Loved by possibly 3 people. That’s enough.</em></p>
+<p align="center"><em>:3 Lightweight. Draggable. Adorable. Coded with ✨ and rage 😤</em></p>
+
 
 ---
 
