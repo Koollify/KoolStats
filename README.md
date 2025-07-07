@@ -35,6 +35,32 @@ with **no graphs, no lag, no RAM drain**. Just stats.
 
 ---
 
+## 🧼 Is It Safe?
+
+Yup. KoolStats is 100% clean.  
+No viruses. No hidden miners. No background junk.  
+Just raw FPS + Ping — nothing else.
+
+This project is made for fun, not money.  
+No ads, no premium versions, no telemetry.
+
+If you're unsure, the source code is public.  
+You can check it, run it, or build it yourself.
+
+> KoolStats is **not** an exploit, cheat, or injector.  
+> It’s also not a launcher like Bloxstrap or a mod like Evon.  
+> Just a lightweight overlay for checking stats.
+
+---
+
+## 🔒 Wanna double check?
+
+- ✅ All code is public on GitHub  
+- ✅ You can build it yourself  
+- ✅ Only does what it says it does  
+
+---
+
 ## 📁 How to Use
 
 1. Download the version you want from [Releases](#).
