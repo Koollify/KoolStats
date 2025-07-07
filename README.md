@@ -73,6 +73,23 @@ You can check it, run it, or build it yourself.
 ✅ No bloat  
 
 ---
+---
+
+## 🤔 How Accurate Is KoolStats?
+
+Look, it’s not NASA-level accurate.
+
+We don’t have access to your game engine, your GPU drivers, or your pet hamster’s emotions.  
+But KoolStats gives you a **good enough** idea of how your game is doing:
+
+- FPS = based on update timing (close enough for humans)
+- Ping = estimated from google.com (not perfect, but works for most)
+- 1% Low = real, but chill — not a benchmark chart
+
+> If you're looking for pixel-perfect analysis, download MSI Afterburner.  
+> If you're just wondering “am I lagging rn?”, KoolStats got you ✅
+
+
 
 ## 💡 Why KoolStats?
 
